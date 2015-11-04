@@ -1,7 +1,7 @@
 {
     "name": "prooph/psb-gearman-producer",
     "description": "Gearman Message Producer for Prooph Service Bus",
-    "homepage": "https://github.com/bweston92/psb-gearman-producer",
+    "homepage": "http://getprooph.org/",
     "license": "BSD-3-Clause",
     "authors": [
         {
